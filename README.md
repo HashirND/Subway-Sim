@@ -1,5 +1,4 @@
-# Subway-Sim
-Subway Screen Simulator
+# Subway Screen Simulator
 
 Train Simulation & Real-Time Data Integration System
 
