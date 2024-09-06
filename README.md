@@ -27,3 +27,7 @@ This project is a Java-based train simulation system that integrates live weathe
 -FreeTTS Library (Text-to-Speech)
 
 -CSV Parsing and File I/O Operations
+
+
+![image](https://github.com/user-attachments/assets/bff2d48f-c70b-4870-8784-a0509eefa361)
+
