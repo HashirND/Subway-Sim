@@ -12,8 +12,8 @@ This project is a Java-based train simulation system that integrates live weathe
 -File Handling: Efficient CSV parsing for train stations and coordinates, along with CSV export of train positions, showcasing robust file I/O operations.
 -Error Handling: Includes advanced exception management for API requests and file operations, ensuring stability and smooth performance.
 
-**Key Technologies:
-**
+**Key Technologies:**
+
 -Java
 -RESTful API (HttpURLConnection)
 -JSON Parsing
